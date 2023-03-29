@@ -28,7 +28,7 @@ students.push('Fred', 'Georgia'); //you can push more than 1 item at a time
 console.log(students);
 
 //pop removes the last item from the end
-students.pop()
+students.pop();
 console.log(students);
 
 //shift removes the beginning item
@@ -49,7 +49,7 @@ console.log(students[students.length-1]);
 
 //slice up a piece of the original array
 let fruits = ['apple', 'banana', 'orange', 'lemon', 'grape'];
-let citrus = fruits.slice(2, 4)
+let citrus = fruits.slice(2, 4);
 
 //first number is the starting index, which we include
 //second number is the index we stop BEFORE. Does not include.

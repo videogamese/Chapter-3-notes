@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d1f9143-3cbd-44a6-8f3f-77b7b620f8f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arrays1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arraysNotes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arraysNotes1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays1.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrays1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arraysNotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/arraysNotes.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -62,15 +64,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arraysNotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="54" column="44" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="44" />
+            <state relative-caret-position="867">
+              <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arrays1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1336">
+              <caret line="92" column="79" selection-start-line="92" selection-start-column="79" selection-end-line="92" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arraysNotes1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="66" column="37" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arrays1.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/arrays2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -93,8 +123,10 @@
         <option value="$PROJECT_DIR$/functions1.js" />
         <option value="$PROJECT_DIR$/Returnnotes.js" />
         <option value="$PROJECT_DIR$/Return1.js" />
-        <option value="$PROJECT_DIR$/arraysNotes.js" />
         <option value="$PROJECT_DIR$/arrays1.js" />
+        <option value="$PROJECT_DIR$/arraysNotes1.js" />
+        <option value="$PROJECT_DIR$/arraysNotes.js" />
+        <option value="$PROJECT_DIR$/arrays2.js" />
       </list>
     </option>
   </component>
@@ -110,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,6 +153,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,7 +191,10 @@
       <workItem from="1679070884285" duration="495000" />
       <workItem from="1679071421590" duration="2444000" />
       <workItem from="1679589368444" duration="3142000" />
-      <workItem from="1679675989662" duration="649000" />
+      <workItem from="1679675989662" duration="947000" />
+      <workItem from="1679934942455" duration="2959000" />
+      <workItem from="1680023239229" duration="513000" />
+      <workItem from="1680107937828" duration="1033000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 2 notes">
       <created>1678813681426</created>
@@ -182,11 +217,18 @@
       <option name="project" value="LOCAL" />
       <updated>1679074162169</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="array practice">
+      <created>1679678685376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679678685376</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15708000" />
+    <option name="totallyTimeSpent" value="20511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -218,7 +260,8 @@
     <MESSAGE value="chapter 2 notes" />
     <MESSAGE value="chapter 3 practice" />
     <MESSAGE value="chapter 3 practice updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 3 practice updated" />
+    <MESSAGE value="array practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="array practice" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Functionsnotes.js">
@@ -255,15 +298,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arraysNotes.js">
+    <entry file="file://$PROJECT_DIR$/arrays1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="54" column="44" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="44" />
+        <state relative-caret-position="1336">
+          <caret line="92" column="79" selection-start-line="92" selection-start-column="79" selection-end-line="92" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arrays1.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/arraysNotes1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="66" column="37" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arraysNotes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrays2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
