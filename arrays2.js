@@ -33,16 +33,16 @@
 
 
 //4
-function replace(certainnum, x) {
-let number = [];
-for (let i = 0; i < certainnum.length;i++){
-number.push(certainnum[i]);
-number[i] = x;
-}
-console.log(number)
-console.log(number)
-}
-replace([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], 123);
+// function replace(certainnum, x) {
+// let number = [];
+// for (let i = 0; i < certainnum.length;i++){
+// number.push(certainnum[i]);
+// number[i] = x;
+// }
+// console.log(number)
+// console.log(number)
+// }
+// replace([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], 123);
 
 
 //5
