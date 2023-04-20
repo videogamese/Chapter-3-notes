@@ -48,7 +48,14 @@ function createChar(list){
     character.wisdom= rollStat(diceRolled);
     console.log('Rolling CHA');
     character.charisma= rollStat(diceRolled);
-    console.log(character)
+    console.log('Rolling RNG');
+    character.lucky= rollStat(diceRolled);
+    console.log('Rolling DEF');
+    character.defense= rollStat(diceRolled);
+    console.log('Rolling SMA');
+    character.stamina= rollStat(diceRolled);
+    console.log(character);
+
 }
 
 function displayChar(char){
@@ -59,4 +66,7 @@ function displayChar(char){
     console.log(`INT: ${char.intelligence}`);
     console.log(`WIS: ${char.wisdom}`);
     console.log(`CHA: ${char.charisma}`);
+    console.log(`RNG: ${char.lucky}`);
+    console.log(`DEF: ${char.defense}`);
+    console.log(`SMA: ${char.stamina}`);
 }
